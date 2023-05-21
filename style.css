@@ -1,0 +1,37 @@
+.container{
+    place-items: center;
+    width: 300px;
+    height: 400px;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5%;
+    position: absolute;
+    top: 25%;
+    right: 35%;
+    background: linear-gradient(rgb(81, 81, 235), rgb(14, 4, 109));
+}
+
+.circle{
+    background-color:  rgb(14, 4, 109);
+    position: relative;
+    left: 30%;
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+}
+
+.number{
+    color:white;
+    font-size:50px;
+    position: relative;
+    top: 15%;
+    left: 30%;
+}
+
+.of-100{
+    color:white;
+    position: relative;
+    left: 35%;
+    top: -15%;
+    
+}
